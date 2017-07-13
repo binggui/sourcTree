@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
    //你好world
+    //分支BG
     // Do any additional setup after loading the view, typically from a nib.
 }
 

@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    //你妹啊 
+    //你妹啊 ,今天不好
     // Do any additional setup after loading the view, typically from a nib.
 }
 

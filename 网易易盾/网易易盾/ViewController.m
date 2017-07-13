@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    //今天怎么样
     // Do any additional setup after loading the view, typically from a nib.
 }
 

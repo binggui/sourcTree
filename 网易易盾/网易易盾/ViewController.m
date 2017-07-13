@@ -19,7 +19,8 @@
     
    //你好world
     //分支BG
-    //master 
+    //master
+    //删除分支,看看
     // Do any additional setup after loading the view, typically from a nib.
 }
 

@@ -19,8 +19,7 @@
     
    //你好world
     //分支BG
-    //master
-    //回滚
+    //master 
     // Do any additional setup after loading the view, typically from a nib.
 }
 
